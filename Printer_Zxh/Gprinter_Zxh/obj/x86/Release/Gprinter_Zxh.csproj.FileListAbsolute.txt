@@ -1,0 +1,12 @@
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\bin\x86\Release\Gprinter_Zxh.exe.config
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\bin\x86\Release\Gprinter_Zxh.exe
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\bin\x86\Release\Gprinter_Zxh.pdb
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\bin\x86\Release\libUsbContorl.dll
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.Form1.resources
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.Form2.resources
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.Form3.resources
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.Properties.Resources.resources
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.csproj.GenerateResource.Cache
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.exe
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.pdb
+D:\软件\C#\智汇\windows动态库#C版例程\Gprinter_Zxh\Gprinter_Zxh\obj\x86\Release\Gprinter_Zxh.csprojResolveAssemblyReference.cache
